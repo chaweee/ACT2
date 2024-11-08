@@ -1,4 +1,4 @@
-public class Book {
+public class EncapsulationSample {
     
     private int bookNumber;
     private String title;
