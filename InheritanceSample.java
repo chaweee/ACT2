@@ -1,7 +1,7 @@
 // Base class: Person
 class Person {
-    private String name;
-    private String address;
+    protected String name;
+    protected String address;
 
     // Constructor
     public Person(String name, String address) {
