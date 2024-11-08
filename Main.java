@@ -91,7 +91,7 @@ class Staff extends Person {
 }
 
 // Main class to test the hierarchy
-public class Main {
+public class InheritanceSample {
     public static void main(String[] args) {
         // Creating Student object
         Student student = new Student("Charlie", "San Juan", "Information Technology", 2023);
